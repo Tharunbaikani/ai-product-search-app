@@ -1,6 +1,4 @@
-Perfect, Tharun! Since you didn’t add a `README.md` during repo creation, no problem — we’ll add it manually now.
 
----
 
 ## ✅ Step-by-Step: Add `README.md` to Your Local Repo & Push
 
@@ -16,7 +14,7 @@ Paste this full content inside:
 
 ---
 
-```markdown
+
 # 🛍️ AI-Powered Product Search and Management App
 
 This Streamlit-based application enables semantic product search, intelligent product embedding using OpenAI, and product data management using Pinecone for vector search and JSON for persistence. It’s designed to handle large-scale product listings and deliver relevant search results using natural language queries.
@@ -49,7 +47,7 @@ This Streamlit-based application enables semantic product search, intelligent pr
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project documentation
 └── .streamlit/secrets.toml     # API secrets (ignored from Git)
-```
+
 
 ---
 
