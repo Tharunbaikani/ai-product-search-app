@@ -30,6 +30,7 @@ This Streamlit-based application enables semantic product search, intelligent pr
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project documentation
 └── .streamlit/secrets.toml     # API secrets (ignored from Git)
+```
 
 
 ---
