@@ -1,0 +1,4 @@
+venv/
+services_sample_data.json
+.secrets.toml
+.streamlit/secrets.toml
