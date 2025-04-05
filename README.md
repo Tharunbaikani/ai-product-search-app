@@ -1,20 +1,3 @@
-
-
-## ✅ Step-by-Step: Add `README.md` to Your Local Repo & Push
-
-### 📄 Step 1: Create the `README.md`
-
-In your project folder, create a new file named:
-
-```
-README.md
-```
-
-Paste this full content inside:
-
----
-
-
 # 🛍️ AI-Powered Product Search and Management App
 
 This Streamlit-based application enables semantic product search, intelligent product embedding using OpenAI, and product data management using Pinecone for vector search and JSON for persistence. It’s designed to handle large-scale product listings and deliver relevant search results using natural language queries.
